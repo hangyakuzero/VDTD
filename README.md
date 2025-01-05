@@ -22,3 +22,5 @@ And finally we have our own friendly neighbourhood, self-proclaimed prisma killi
 it is a great ORM honestly, but if you prefer to raw dog sql, you can use the drizzle kit studio to manage the database too, it's really great ig.
 
 ## so in conclusion , have fun, and stay relentless
+
+** NOTE: THIS IS LIKE A MEME PROJECT **
