@@ -23,4 +23,4 @@ it is a great ORM honestly, but if you prefer to raw dog sql, you can use the dr
 
 ## so in conclusion , have fun, and stay relentless
 
-** NOTE: THIS IS LIKE A MEME PROJECT **
+**_NOTE: THIS IS LIKE A MEME PROJECT_**
